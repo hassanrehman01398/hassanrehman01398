@@ -7,5 +7,4 @@
 - 🤔 I’m looking for help in Min.io.
 - 💬 Ask me about Java,Flutter,Dotnet,Python,Gcp and about anything I will love to help you.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/muhammad-hassan-ur-rehman-32118a13a/">My Linkedin Profile</a>.
-- ⚡ Fun fact:I dont code everytime.
 
