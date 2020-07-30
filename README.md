@@ -2,7 +2,7 @@
 
 
 - 🔭 Currently working on Flutter,Js and NodeJs.
-- 🌱 I’m currently learning Node Js.
+- 🌱 I’m currently learning Node Js,AWS and GCP.
 - 👯 I’m looking to collaborate on realtime projects integrated with AI models and AR Core.
 - 🤔 I’m looking for help in Min.io.
 - 💬 Ask me about Java,Flutter,Dotnet,Python,Gcp and about anything I will love to help you.
