@@ -1,7 +1,7 @@
 ### Hi there,Here is Muhammad Hassan ur Rehman aka Hecto 👋
 
 
-- 🔭 Currently working on Flutter,Js and NodeJs.
+- 🔭 Currently working on Flutter,MongoDB and NodeJs.
 - 🌱 I’m currently learning Node Js,AWS and GCP.
 - 👯 I’m looking to collaborate on realtime projects integrated with AI models and AR Core.
 - 🤔 I’m looking for help in Min.io.
